@@ -1,0 +1,7 @@
+python-dotenv
+langchain
+openai==0.28.0
+youtube-transcript-api
+faiss-cpu
+streamlit
+altair<5 
